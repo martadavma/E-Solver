@@ -1,3 +1,3 @@
-This is a re-implementation od the E-solver for research purposes.
+This is a re-implementation od the E-solver for research purposes. We aims to reproduce E-solver in a versatile way to study and redesign it's heurstic to make it more efficient.
 
 The E-solver is a solver for the Syntax-Guided Synthesis (SyGuS) problem, which aims to automatically generate a program or function that satisfies a given logical specification, expressed in terms of input-output examples, constraints, and optional background theories. The E-solver uses an enumerative search algorithm that systematically explores the space of candidate programs, guided by the specification and a set of domain-specific templates that define the syntax and semantics of the desired program. The E-solver is one of the state-of-the-art techniques for SyGuS and has been successfully applied to various problem domains, including software verification, program repair, and hardware synthesis.
